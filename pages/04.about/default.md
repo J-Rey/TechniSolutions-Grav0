@@ -1,5 +1,7 @@
 ---
 title: About
+external_links:
+    no_follow: false
 ---
 
 ###About
