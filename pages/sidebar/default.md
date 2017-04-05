@@ -1,6 +1,9 @@
 ---
 title: Sidebar
-template: partials\archives.html.twig
+process:
+    markdown: true
+    twig: true
+twig_first: true
 ---
 
-Your sidebar content is here.
+{% extends 'partials\archives.html.twig' %}
