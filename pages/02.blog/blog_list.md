@@ -1,11 +1,12 @@
 ---
 title: Blog
+child_type: blog_item
 visible: true
 content:
     items: '@self.children'
     leading: 0
     columns: 2
-    limit: 10
+    limit: 2
     order:
         by: date
         dir: desc
@@ -13,6 +14,5 @@ content:
     pagination: true
     url_taxonomy_filters: true
 hide_git_repo_link: true
-child_type: blog_item
 ---
 
