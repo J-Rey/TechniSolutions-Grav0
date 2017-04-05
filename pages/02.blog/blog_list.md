@@ -6,7 +6,7 @@ content:
     items: '@self.children'
     leading: 0
     columns: 2
-    limit: 2
+    limit: 4
     order:
         by: date
         dir: desc
