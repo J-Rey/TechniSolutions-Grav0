@@ -6,4 +6,4 @@ process:
 twig_first: true
 ---
 
-{% extends 'partials\archives.html.twig' %}
+text here
