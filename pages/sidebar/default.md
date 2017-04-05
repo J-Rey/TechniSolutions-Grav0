@@ -1,4 +1,6 @@
 ---
 title: Sidebar
+template: partials\archives.html.twig
 ---
-Your sidebar content would be here.
+
+Your sidebar content is here.
