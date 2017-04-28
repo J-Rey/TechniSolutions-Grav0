@@ -1,10 +1,9 @@
 ---
 title: 'E-mail seed list for clients'
 metadata:
-    'E-mail seed list for clients. Password protected.': keywords
+    'E-mail seed list for clients. Password protected.': Description
 taxonomy:
-    tag:
-        - private_tag
+    tag: private_tag
 ---
 
 * [Send e-mail to list from default client](mailto:someone@example.com,someoneelse@example.com)
